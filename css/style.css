@@ -661,9 +661,6 @@ nav ul, nav ol{margin:0; padding:0; list-style:none;}
   100% { transform:translate(0,10px) rotate(45deg); opacity: 0; }
 }
 
-
-
-
 #fh5co-hero {
   min-height: 700px;
   background: #fff url(../images/loader.gif) no-repeat center center;
