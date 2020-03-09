@@ -138,7 +138,7 @@ h1, h2, h3, h4, h5, h6, figure {
     width: 100%; }
   .site-navbar .site-logo {
     position: absolute;
-    left: 0;
+    left: 0em;
     top: 0;
     margin-top: -20px; }
   .site-navbar .site-navigation.border-bottom {
