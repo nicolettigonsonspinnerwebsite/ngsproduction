@@ -229,7 +229,7 @@ h1, h2, h3, h4, h5, h6, figure {
           margin: 0;
           min-width: 200px; }
           .site-navbar .site-navigation .site-menu .has-children .dropdown > li > a {
-            padding: 9px 20px;
+            padding: 7px 20px;
             display: block; }
             .site-navbar .site-navigation .site-menu .has-children .dropdown > li > a:hover {
               background: #66b2ff;
