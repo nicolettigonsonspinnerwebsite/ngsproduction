@@ -1388,6 +1388,19 @@ nav ul, nav ol{margin:0; padding:0; list-style:none;}
   box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75);
 }
 
+.f_social p {
+  color: #000;
+  margin-bottom: 15px; }
+.f_social .f_social a {
+  color: #F00;
+  transition: all 0.3s linear;
+  margin-right: 20px; }
+  .f_social .f_social a:hover {
+    color: #000; }
+  .f_social .f_social a:last-child {
+    margin-right: 0px; }
+
+
 #fh5co-footer {
   background: #efefef;
 }
